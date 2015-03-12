@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "doWebView", "doWebView\doWebView.csproj", "{744FBB4B-BC3C-4D4C-AFA5-1A5FC5E1D20B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "do_WebView", "do_WebView\do_WebView.csproj", "{744FBB4B-BC3C-4D4C-AFA5-1A5FC5E1D20B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
