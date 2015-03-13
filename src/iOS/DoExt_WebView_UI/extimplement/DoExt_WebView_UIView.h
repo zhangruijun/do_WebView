@@ -11,7 +11,7 @@
 #import "doIUIModuleView.h"
 #import "DoExt_WebView_UIModel.h"
 
-@interface DoExt_WebView_View : UIWebView <DoExt_WebView_IView,doIUIModuleView,UIWebViewDelegate>
+@interface DoExt_WebView_UIView : UIWebView <DoExt_WebView_IView,doIUIModuleView,UIWebViewDelegate>
 //可根据具体实现替换UIView
 {
     @private

@@ -24,7 +24,7 @@
 #import "doUIContainer.h"
 
 
-@implementation DoExt_WebView_View
+@implementation DoExt_WebView_UIView
 #pragma mark - doIUIModuleView协议方法（必须）
 //引用Model对象
 - (void) LoadView: (doUIModule *) _doUIModule
